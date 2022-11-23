@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# ERC20 Token Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic ERC20 functionalities with reward system mechanism. It alots 70% of the tokens to the owner based on the iniatial supply passed when we deploy the contract.
 
 Try running some of the following tasks:
 
